@@ -8,7 +8,7 @@ Terraria Save Auto-Backup Tool, built with Gemini 3.1 Pro. Shared casually, for 
 功能特色:
 1系统交互：底层穿透与动态多语言
 2数据流转：跨设备的归档与导入
-3目标控制：全局与局部的自由切换
+3目标控制：全局备份与局部备份的自由切换
 4自动化任务：无人值守的备份与清理
 5底层架构：时间点快照（强一致性保证）
 
