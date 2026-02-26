@@ -13,3 +13,5 @@ Terraria Save Auto-Backup Tool, built with Gemini 3.1 Pro. Shared casually, for 
 5底层架构：时间点快照（强一致性保证）
 
 <img width="822" height="852" alt="image" src="https://github.com/user-attachments/assets/1aa67725-3c4b-417d-9652-c9c4364517e2" />
+<img width="822" height="852" alt="image" src="https://github.com/user-attachments/assets/f83d9495-1531-47ea-acfe-72b7fe2a8242" />
+<img width="822" height="852" alt="image" src="https://github.com/user-attachments/assets/47db4859-67a5-4355-8713-449defcadb5d" />
