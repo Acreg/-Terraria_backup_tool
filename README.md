@@ -17,12 +17,12 @@ This design fundamentally prevents desync issues between player and world states
 6.v1.7版本后支持tModLoader存档备份，需要打开开关生效，与原版备份功能互不干扰
 
  Features
-1. Automatic backup** for a hands-free experience (manual backup also supported). Customizable backup intervals (minutes/seconds).
-2. Snapshot-style backups** include player and world saves from one single backup task, with full `.map` minimap exploration data retained — no unexplored fog on the minimap after restoring from a backup.
+1. Automatic backup for a hands-free experience (manual backup also supported). Customizable backup intervals (minutes/seconds).
+2. Snapshot-style backups include player and world saves from one single backup task, with full `.map` minimap exploration data retained — no unexplored fog on the minimap after restoring from a backup.
 3. Multilingual support: Chinese, English, and Japanese.
 4. Automatically locates the Documents folder via the Windows Registry and smartly detects the game save path. Both the game save location and backup storage directory are fully customizable.
-5. Automatic garbage collection**: automatically deletes outdated snapshots, with a customizable retention period.
-6. Added support for **tModLoader** save backups in v1.7 (requires enabling the toggle); works independently from vanilla game backups with no interference.
+5. Automatic garbage collection: automatically deletes outdated snapshots, with a customizable retention period.
+6. Added support for tModLoader save backups in v1.7 (requires enabling the toggle); works independently from vanilla game backups with no interference.
 <img width="862" height="852" alt="image" src="https://github.com/user-attachments/assets/b08e23c4-2f49-46fd-a0a2-8317af60c3b5" />
 <img width="862" height="852" alt="image" src="https://github.com/user-attachments/assets/2df522fe-675e-45d5-842d-f79f56cb4c37" />
 <img width="862" height="852" alt="image" src="https://github.com/user-attachments/assets/3db7a898-faf9-4443-8b68-49e4b6d4d065" />
