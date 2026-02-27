@@ -23,3 +23,6 @@ This design fundamentally prevents desync issues between player and world states
 4. Automatically locates the Documents folder via the Windows Registry and smartly detects the game save path. Both the game save location and backup storage directory are fully customizable.
 5. Automatic garbage collection**: automatically deletes outdated snapshots, with a customizable retention period.
 6. Added support for **tModLoader** save backups in v1.7 (requires enabling the toggle); works independently from vanilla game backups with no interference.
+<img width="862" height="852" alt="image" src="https://github.com/user-attachments/assets/3db7a898-faf9-4443-8b68-49e4b6d4d065" />
+<img width="862" height="852" alt="image" src="https://github.com/user-attachments/assets/2df522fe-675e-45d5-842d-f79f56cb4c37" />
+<img width="862" height="852" alt="image" src="https://github.com/user-attachments/assets/b08e23c4-2f49-46fd-a0a2-8317af60c3b5" />
